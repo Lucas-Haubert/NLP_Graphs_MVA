@@ -8,11 +8,11 @@ This project is a comprehensive study and completion of the paper titled "How to
 
 ## Repository Contents
 
-- `Report.pdf`: A detailed report of my work and findings based on the original paper.
+- `Report.pdf`: Detailed report of my work and findings based on the original paper.
 - `Slides.pdf`: Presentation slides summarizing the key points and results of the study.
 - `Data_Challenge_Description.pdf` : Description of the problem.
-- `code.ipynb` : Contains the implementation of the contrastive learning pipeline.
-- `submission_merge` : Built the submission file for the data challenge.
+- `code.ipynb` : Implementation of the contrastive learning pipeline.
+- `submission_merge` : Construction of the submission file for the data challenge.
 
 ## Original Content and Data
 
