@@ -1,10 +1,10 @@
-# Advanced learning for text adn graph data Project
+# Advanced learning for text and graph data Project
 
 ## Overview
 
-This project is a comprehensive study and completion of the paper titled "How to introduce expert feedback in one-class support vector machines for anomaly detection?" by J. Lesouple, C. Baudoin, M. Spigai, J.-Y. Tourneret. The objective is to explore the methodologies and implications of the introduction of an expert feedback in a classification task on time series.
+This project is a comprehensive study and completion of the ALTEGRAD Data Challenge 2023, given at École Polytechnique, hosted on Kaggle. The objective is to explore the methodologies and implications of the use of contrastive learning in order to perform molecule retrieval from textual descriptions.
 
-[Read the original paper](https://oatao.univ-toulouse.fr/28058/1/Lesouple_28058.pdf)
+[Kaggle data challenge](https://www.kaggle.com/competitions/altegrad-2023-data-challenge/overview)
 
 ## Repository Contents
 
@@ -14,22 +14,8 @@ This project is a comprehensive study and completion of the paper titled "How to
 - `code.ipynb` : Implementation of the contrastive learning pipeline.
 - `submission_merge` : Construction of the submission file for the data challenge.
 
-## Original Content and Data
+## Acknowledgements
 
-The code and methodologies implemented in this project are based on the author's contributions:
+I would like to acknowledge Professor Michalis Vazirgiannis, École Polytechnique, for his course of Advanced learning for text and graph data, part of the MVA master's program.
 
-[Julien Lesouple's website](http://perso.recherche.enac.fr/~julien.lesouple/)
-
-[Dataset used in the original paper](https://github.com/shubhomoydas/ad_examples/tree/master/ad_examples/datasets/anomaly)
-
-Link for the time series datasets used in the project:
-
-[Time Series Classification Website](https://www.timeseriesclassification.com/dataset.php)
-
-## Grade and acknowledgements
-
-Final grade of the project : 16,5/20
-
-I would like to acknowledge Professor Laurent Oudre, ENS Paris-Saclay, for his course of Machine Learning for Time Series, part of the MVA master's program.
-
-I also thank Steven Zheng, Master MVA, for working with me on this project.
+I also thank Lilian Hunout and Samy Hocine, Master MVA, for working with me on this project.
