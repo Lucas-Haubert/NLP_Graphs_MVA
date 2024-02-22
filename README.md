@@ -11,8 +11,8 @@ This project is a comprehensive study and completion of the paper titled "How to
 - `Report.pdf`: A detailed report of my work and findings based on the original paper.
 - `Slides.pdf`: Presentation slides summarizing the key points and results of the study.
 - `Data_Challenge_Description.pdf` : Description of the problem.
-- `s3vmad` : Conatins the implementation of a slightly different approach
-- `expert_heartbeat.ipynb`, `preproc_heartbeat.ipynb` and `wavelet_heartbeat.ipynb` : Contain notebooks that run our work, applied on one dataset, following different pipelines
+- `code.ipynb` : Contains the implementation of the contrastive learning pipeline.
+- `submission_merge` : Built the submission file for the data challenge.
 
 ## Original Content and Data
 
