@@ -14,7 +14,9 @@ This project is a comprehensive study and completion of the ALTEGRAD Data Challe
 - `code.ipynb` : Implementation of the contrastive learning pipeline.
 - `submission_merge` : Construction of the submission file for the data challenge.
 
-## Acknowledgements
+## Grade and acknowledgements
+
+Final grade of the project : 18/20
 
 I would like to acknowledge Professor Michalis Vazirgiannis, École Polytechnique, for his course of Advanced learning for text and graph data, part of the MVA master's program.
 
