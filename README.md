@@ -18,6 +18,6 @@ This project is a comprehensive study and completion of the ALTEGRAD Data Challe
 
 Final grade of the project : 18/20
 
-I would like to acknowledge Professor Michalis Vazirgiannis, École Polytechnique, for his course of Advanced learning for text and graph data, part of the MVA master's program.
+I would like to acknowledge Professor [Michalis Vazirgiannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/), École Polytechnique, for his course of Advanced learning for text and graph data, part of the MVA master's program.
 
-I also thank Lilian Hunout and Samy Hocine, Master MVA, for working with me on this project.
+I also thank [Lilian Hunout](https://www.linkedin.com/in/lilian-hunout/) and [Samy Hocine](https://www.linkedin.com/in/samy-hocine-57a6b8195/), Master MVA, for working with me on this project.
