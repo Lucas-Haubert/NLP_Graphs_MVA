@@ -8,7 +8,7 @@ This project is a comprehensive study and completion of the ALTEGRAD Data Challe
 
 ## Repository Contents
 
-- `Report.pdf`: Detailed report of my work and findings based on the original paper.
+- `Report.pdf`: Detailed report of the work and findings based on the original paper.
 - `Slides.pdf`: Presentation slides summarizing the key points and results of the study.
 - `Data_Challenge_Description.pdf` : Description of the problem.
 - `code.ipynb` : Implementation of the contrastive learning pipeline.
